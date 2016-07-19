@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bfa9b34-ab14-4876-9ad6-ef539ab52a4d" name="Default" comment="Working with State, creating Fish component and passing props several hierarchies down">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/react_beginners_wesbos_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/react-beginners-wesbos.iml" afterPath="$PROJECT_DIR$/.idea/react-beginners-wesbos.iml" />
+    <list default="true" id="6bfa9b34-ab14-4876-9ad6-ef539ab52a4d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/main.js" afterPath="$PROJECT_DIR$/build/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/main.js" afterPath="$PROJECT_DIR$/scripts/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/sample-fishes.js" afterPath="$PROJECT_DIR$/scripts/sample-fishes.js" />
     </list>
     <ignored path="react-beginners-wesbos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -294,12 +287,20 @@
       <workItem from="1468900860981" duration="156000" />
       <workItem from="1468901049528" duration="399000" />
       <workItem from="1468901497325" duration="180000" />
-      <workItem from="1468901685959" duration="2647000" />
+      <workItem from="1468901685959" duration="2720000" />
     </task>
+    <task id="LOCAL-00001" summary="Working with State, creating Fish component and passing props several hierarchies down">
+      <created>1468904436232</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1468904436232</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22374000" />
+    <option name="totallyTimeSpent" value="22447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="378" y="79" width="1542" height="1001" extended-state="0" />
